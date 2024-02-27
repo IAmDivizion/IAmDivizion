@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IAmDivizion
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on game making
+- 🌱 I’m currently learning Ethical Hacking
 - 📫 How to reach me francastro.sg@gmail.com
 
 <!---
